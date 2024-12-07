@@ -1,0 +1,8 @@
+setup.py
+GradeClassifier.egg-info/PKG-INFO
+GradeClassifier.egg-info/SOURCES.txt
+GradeClassifier.egg-info/dependency_links.txt
+GradeClassifier.egg-info/top_level.txt
+gradeclassifier/__init__.py
+gradeclassifier/classify.py
+gradeclassifier/statistics.py

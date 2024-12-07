@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: GradeClassifier
+Version: 0.1
+Summary: A package to classify grades between 0 and 20 and calculate statistics.
+Home-page: https://github.com/Hicham-FH/GradeClassifier
+Author: FOUAH HICHAM
+Author-email: FOUAH.H397@ucd.ac.ma
